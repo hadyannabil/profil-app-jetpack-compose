@@ -6,7 +6,6 @@ ProfilApp merupakan aplikasi Android sederhana berbasis **Jetpack Compose** yang
 
 - **Nama:** Hadyan Nabil Sri Kaloko
 - **NIM:** 2451550200111035
-- **Program Studi:** Teknik Informatika
 
 ## Penjelasan Kode
 
