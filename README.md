@@ -74,12 +74,3 @@ screenshots/
 
 README.md
 ```
-
-## Cara Menjalankan Aplikasi
-
-1. Buka project menggunakan Android Studio.
-2. Tunggu proses Gradle selesai.
-3. Pilih emulator atau perangkat Android.
-4. Tekan tombol **Run**.
-5. Tekan tombol **Follow** untuk menguji perubahan menjadi **Unfollow**.
-6. Ubah orientasi perangkat untuk menguji tampilan portrait dan landscape.
