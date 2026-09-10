@@ -1,5 +1,7 @@
 # ProfilApp
 
+ProfilApp merupakan aplikasi Android sederhana berbasis **Jetpack Compose** yang menampilkan profil mahasiswa serta interaksi tombol **Follow/Unfollow**. Project ini dibuat sebagai implementasi konsep dasar UI pada Jetpack Compose.
+
 ## Identitas
 
 - **Nama:** Hadyan Nabil Sri Kaloko
